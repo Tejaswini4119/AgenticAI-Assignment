@@ -1,0 +1,20 @@
+FourOne-PracticalAssignments
+
+i do assignments here.. im student afterall. 
+
+--------------------------------------------------------------------------
+
+Agentic AI Assignment 1 : 
+
+1. LLM Workflow (5 Marks): Develop a Python program that accepts user input and generates a response using an LLM (OpenAI/Gemini/Ollama).
+2. Prompt Chaining (5 Marks): Implement a multi-step LLM workflow to generate a summary, extract key points, and produce three questions from a given topic.
+3. Agentic AI (5 Marks): Build a simple AI agent that accepts a task, plans the required steps, executes them, and displays the final output.
+4. RAG-Based Question Answering (5 Marks): Develop a basic RAG application that retrieves relevant information from a PDF/TXT document and answers user queries using an LLM.
+
+Submission Deadline : 20-07-26, Monday. 
+
+--------------------------------------------------------------------------
+
+How to Run:
+Simply execute the unified TUI launcher script:
+$ ./run.sh
