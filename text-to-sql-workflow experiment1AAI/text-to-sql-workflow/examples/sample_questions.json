@@ -1,0 +1,12 @@
+[
+  "How many customers signed up in each country?",
+  "What are the top 5 best-selling products by total revenue?",
+  "List all employees in the Engineering department along with their manager's name.",
+  "What is the average order value per customer?",
+  "Which department has the highest average employee salary?",
+  "How many orders are currently in 'pending' status?",
+  "Show total revenue by product category, sorted highest to lowest.",
+  "Who are the 10 customers who have spent the most money overall?",
+  "What percentage of orders were cancelled?",
+  "Find employees who have more than 3 people reporting to them."
+]
