@@ -1,0 +1,38 @@
+Nimbus Cloud Storage — Frequently Asked Questions
+
+What is Nimbus?
+Nimbus is a cloud file storage and sync service. Files placed in the Nimbus
+folder on your computer are automatically uploaded and kept in sync across
+all devices signed in to the same account.
+
+What plans are available?
+Nimbus offers three plans: Free (5 GB storage, single device), Plus (200 GB
+storage, up to 5 devices, $4.99/month), and Pro (2 TB storage, unlimited
+devices, version history for 180 days, $14.99/month). All paid plans include
+a 14-day free trial and can be cancelled at any time from the billing page.
+
+What is the refund policy?
+Annual subscriptions can be refunded in full within 30 days of purchase.
+Monthly subscriptions are not refundable but can be cancelled at any time,
+and access continues until the end of the current billing period.
+
+How much can I upload at once?
+The web uploader accepts files up to 10 GB each on Plus and Pro plans, and
+2 GB each on the Free plan. The desktop sync client has no per-file limit
+other than available storage quota.
+
+What happens if I delete a file?
+Deleted files move to the Trash and are kept for 30 days before permanent
+deletion. Pro plan users can restore any previous version of a file for up
+to 180 days using version history.
+
+How do I contact support?
+Support is available via chat and email, Monday to Friday, 9 AM to 6 PM
+Eastern Time. Pro plan customers get priority queueing and a same-day
+response target. Free plan customers should expect a response within 3
+business days.
+
+Is my data encrypted?
+Yes. Files are encrypted in transit using TLS and at rest using AES-256.
+Nimbus does not have access to the encryption keys used for the optional
+"Locked Folder" feature available on Pro plans.

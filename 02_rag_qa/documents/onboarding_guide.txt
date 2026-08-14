@@ -1,0 +1,36 @@
+Acme Robotics — New Hire Onboarding Guide
+
+Before Day One
+IT will ship a laptop and any required hardware to arrive at least 2 days
+before your start date. You will receive an email with temporary login
+credentials for the company email and HR portal 24 hours before you start.
+
+Day One
+Report to the front desk at 9:30 AM for badge photo and building access
+setup. Your manager will walk you through your first-week schedule, which
+includes an HR orientation session, a benefits enrollment walkthrough, and
+introductions to your immediate team.
+
+Account Setup
+New hires must complete account setup for: company email, Slack, the HR
+portal, and the internal engineering wiki. Access to specific engineering
+systems (source control, cloud infrastructure, internal APIs) is requested
+by your manager and typically granted within 2 business days of your start
+date.
+
+Equipment
+Standard equipment includes a laptop, a monitor, and a headset, all shipped
+to your home address or available for pickup at the office. Additional
+equipment requests (standing desk, second monitor) go through the facilities
+request form and are approved by your manager.
+
+Benefits Enrollment
+Health, dental, and vision benefits must be elected within 30 days of your
+start date or you will need to wait for the next open enrollment period.
+401(k) enrollment has no deadline and can be set up at any time through the
+HR portal.
+
+First 30 Days
+By the end of your first 30 days you should have completed all onboarding
+training modules, met with your manager for a first check-in, and set your
+first quarter goals together.
