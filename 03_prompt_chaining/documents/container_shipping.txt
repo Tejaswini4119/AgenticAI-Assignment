@@ -1,0 +1,66 @@
+The Container Shipping Revolution
+
+Before the mid-1950s, loading a cargo ship was slow, dangerous, and
+expensive. Dockworkers hauled loose crates, barrels, and sacks by hand,
+piece by piece, a process called "break bulk" shipping. A single ship
+could sit in port for a week or more while it was loaded and unloaded, and
+theft of loose cargo was so common that dockside pilferage was treated as
+an unavoidable cost of doing business. Freight costs made up such a large
+share of the price of traded goods that many manufacturers only sold
+regionally, since shipping a product a thousand miles could double or
+triple its price by the time it reached a buyer.
+
+The turning point came on April 26, 1956, when a former trucking
+entrepreneur named Malcolm McLean loaded 58 custom-built metal containers
+onto a converted tanker, the Ideal-X, and sailed it from Newark, New
+Jersey to Houston, Texas. Each container could be lifted straight off a
+truck chassis and swung onto the ship by crane, then lifted off and placed
+directly onto another truck or a railcar at the destination, without
+anyone touching the goods inside. McLean's own calculations showed that
+loading break-bulk cargo cost around $5.86 per ton, while loading his
+containers cost about 16 cents per ton, a roughly 36-fold reduction in
+handling cost alone.
+
+Standardization turned McLean's idea into a global system. Through the
+1960s, competing container sizes and corner-fitting designs threatened to
+fragment the industry, since a shipper's container was useless if a port's
+cranes couldn't lift it. The International Organization for Standardization
+(ISO) stepped in and, by 1970, had settled on standard container
+dimensions, most importantly the 20-foot and 40-foot lengths that are
+still dominant today. This gave rise to the "twenty-foot equivalent unit,"
+or TEU, the standard measure still used to describe ship and port capacity.
+A large modern container ship can carry over 20,000 TEU, compared to the
+58 containers McLean's Ideal-X carried on its first voyage.
+
+The economic effects were enormous. Containerization, combined with larger
+ships and automated ports, cut ocean freight costs so sharply that
+manufacturing shifted toward wherever labor was cheapest, since transport
+was no longer the limiting factor. Economists have credited
+containerization, alongside trade liberalization, as one of the key
+enablers of the late-20th-century boom in globalized manufacturing, since
+it became cheap enough to build a component in one country, ship it to
+another for assembly, and sell the finished product in a third. Port
+cities that adapted early, like Rotterdam and later Singapore and
+Shanghai, grew into some of the busiest hubs in the world, while ports
+that were slow to build container terminals lost shipping traffic to
+rivals.
+
+Modern container shipping is not without fragility. In March 2021, the
+container ship Ever Given ran aground diagonally across the Suez Canal,
+blocking one of the world's busiest shipping lanes for six days and
+delaying an estimated $9 billion of trade per day while it was stuck. The
+incident highlighted how concentrated global trade has become around a
+small number of canals, ports, and chokepoints: the Suez and Panama
+Canals alone carry a large share of east-west maritime trade, and a
+blockage or drought (as later affected Panama Canal water levels) can
+ripple through supply chains worldwide within days.
+
+Looking ahead, the industry faces pressure to decarbonize, since large
+container ships still mostly burn heavy fuel oil and account for a
+meaningful share of global shipping emissions. Shipping lines are
+experimenting with alternative fuels such as methanol and liquefied
+natural gas, and some newly ordered vessels are designed to be
+retrofittable as cleaner fuels become commercially viable. At the same
+time, ports continue to automate further, with automated cranes and
+self-driving yard vehicles reducing turnaround times that, seventy years
+ago, were measured in weeks rather than hours.
